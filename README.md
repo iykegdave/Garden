@@ -1,5 +1,4 @@
-# Firebase Studio
+# DevNet Group
 
-This is a NextJS starter in Firebase Studio.
-
+This is the official DevNet Repo
 To get started, take a look at src/app/page.tsx.
